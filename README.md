@@ -39,7 +39,7 @@ With only one single dependency, Needle supports:
  - HTTP Proxy forwarding, optionally with authentication
  - Streaming gzip or deflate decompression
  - Automatic XML & JSON parsing
- - 301/302/303 redirect following, with fine-grained tuning, and
+ - 301/302/303/307 redirect following, with fine-grained tuning, and
  - Streaming non-UTF-8 charset decoding, via `iconv-lite`
 
 And yes, Mr. Wayne, it does come with the latest streams2 support.
